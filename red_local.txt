@@ -1,1 +1,9 @@
 Es un conjunto de dispositivos (computadoras, impresoras, móviles) conectados en un área geográfica pequeña y limitada, como una casa, oficina o edificio, para compartir recursos y comunicarse, permitiendo el acceso a internet compartido, archivos e impresoras de forma rápida y eficiente
+
+Que dispositivos hay en una red local? 
+
+2 Routers
+2 Switches
+4 PCs
+1 Puntos de acceso
+
