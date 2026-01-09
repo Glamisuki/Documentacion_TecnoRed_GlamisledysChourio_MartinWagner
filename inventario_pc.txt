@@ -1,4 +1,4 @@
 CPU: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz (3.60 GHz)
-RAM: 16 GB
+RAM: 32 GB
 DISCO: 512GB
 SO: Windows 11

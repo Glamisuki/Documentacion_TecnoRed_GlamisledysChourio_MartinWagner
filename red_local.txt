@@ -3,7 +3,7 @@ Es un conjunto de dispositivos (computadoras, impresoras, móviles) conectados e
 Que dispositivos hay en una red local? 
 
 2 Routers
-2 Switches
+3 Switches
 4 PCs
 1 Puntos de acceso
 
